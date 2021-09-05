@@ -1,0 +1,11 @@
+test,rps,avg_latency_ms,min_latency_ms,p50_latency_ms,p95_latency_ms,p99_latency_ms,max_latency_ms
+SET,64683.05,0.437,0.088,0.415,0.767,1.063,3.839
+GET,66137.57,0.423,0.088,0.407,0.743,0.975,2.231
+test,rps,avg_latency_ms,min_latency_ms,p50_latency_ms,p95_latency_ms,p99_latency_ms,max_latency_ms
+SET,55586.44,0.522,0.064,0.439,1.047,2.303,9.599
+GET,59206.63,0.474,0.024,0.423,0.903,1.719,8.927
+test,rps,avg_latency_ms,min_latency_ms,p50_latency_ms,p95_latency_ms,p99_latency_ms,max_latency_ms
+SET,57603.69,0.499,0.088,0.439,1.047,1.783,4.575
+GET,52687.04,0.542,0.088,0.463,1.183,1.839,7.223
+SET,59291.06,0.486,0.08,0.431,0.953666667,1.716333333,6.004333333
+GET,59343.74667,0.479666667,0.066666667,0.431,0.943,1.511,6.127
